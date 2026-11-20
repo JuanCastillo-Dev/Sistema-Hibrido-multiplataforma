@@ -1,0 +1,11 @@
+ssh.host=54.242.242.113
+ssh.port=22
+ssh.user=ubuntu
+ssh.pem.path=C:/ruta/a/tu/llave.pem
+ssh.local.port=3307
+
+db.remote.host=clinica-db.cf1d5h0j8obm.us-east-1.rds.amazonaws.com
+db.remote.port=3306
+db.name=clinica_veterinaria
+db.user=app_desktop
+db.password=TU_PASSWORD_DESKTOP
